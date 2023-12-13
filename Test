@@ -1,16 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" , "https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml" , "https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml" refresh="1440" billed-msg="V2.2 ZAIDI SHOP SCAMMER"
 
-##############################################################################jepon###################################################################################
-
-
-#EXTINF:-1 group-title="JEPUN" group-logo="https://jepstoreott.jepstore057.workers.dev/0:/jepstore/logojepstore/JEPUNLOGO.jpg" tvg-id="SGEM.id" ch-number="471" tvg-logo="https://playtv.unifi.com.my:7044/CPS/images/universal/film/logo/202109/20210926/20210926024214242p95.png", 471 GEM
-https://live-sg3.global.ssl.fastly.net/live-hls/tonton9.m3u8
-
-#EXTINF:-1 tvg-id="NHKWorldPremium" ch-number="398" group-title="JEPUN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/428_144.png",398 NHK World Premium
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"RLQjp33TSs4WLbNcuw+2ow", "kid":"mIF7FEvPGf0N3Kf+VM7hEA" } ], "type":"temporary" }
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5018/default_primary.mpd
-  
 
 #########################################################################hongkonng##########################################################################
 
