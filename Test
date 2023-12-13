@@ -1,7 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" , "https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml" , "https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml" refresh="1440" billed-msg="V2.2 ZAIDI SHOP SCAMMER"
 
-
-
 #EXTINF:-1 tvg-id="Animax" ch-number=" " tvg-name="Animax HD" group-title="KIDS" group-logo="https://jepstoreott.jepstore057.workers.dev/0:/jepstore/logojepstore/KIDSLOGO.png" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/logos/animax-logo_0.png",Animax (SG)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
