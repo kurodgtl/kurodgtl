@@ -2957,6 +2957,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPr
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
 
+#EXTM3U x-tvg-url=" vod_library="https://raw.githubusercontent.com/kurodgtl/kurodgtl/main/vvd"
+http://ye23.vip/z7z8/2021/kbs2020.php?id=1
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -4581,6 +4584,8 @@ http://103.161.34.87:808/premium39/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="USBD12000183X" tvg-logo="https://i.ibb.co/XjjmZ8S/Bt3.png" group-title="SPORTS",Billiard TV
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
+
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJpdGNvcmUubWFzdGVyX3N0MkB0cnYuY28uaWQiLCJzZXNzaW9uSWQiOiJleUowZVhBaU9pSktWMVFpTENKaGJHY2lPaUpJVXpJMU5pSjkuZXlKamRYSnlaVzUwVTJWemMybHZia2xrSWpvaU1qQm1aakUyWTJRdFlqbGxPQzAwWmpSakxUZ3paRFF0WmpVd01HRTRNelU0WlRNNUlpd2lZM1Z5Y21WdWRFUmxkbWxqWlZSNWNHVWlPaUpCSWl3aVkzVnljbVZ1ZEZCc1lYUm1iM0p0U1dRaU9pSTBNREk0WXpZNE5UYzBOVE0zWm1Oa01ERTNOR0ZtTmpjMU5tRTVOREk0T0NJc0luUnBiV1Y2YjI1bElqb2lRWE5wWVM5S1lXdGhjblJoSWl3aVlYVjBhRzl5YVhSNUlqb2lVazlNUlY5VlUwVlNJaXdpWlhod0lqb3hOekF3TnpNd01EWTRMQ0oxYzJWeVNXUWlPaUkwTURJNE5EaGxORGhoTVRobU5UUmlNREU0WVRoaU9HUXhOVGxtTldKaU5DSXNJbVJsZG1salpVbGtJam9pTVRJek5EVTJOemc1TUNJc0ltbGhkQ0k2TVRjd01EWTBNelkyT0N3aWRYTmxjbTVoYldVaU9pSnBkR052Y21VdWJXRnpkR1Z5WDNOME1rQjBjbll1WTI4dWFXUWlmUS5Gb0pXSk1XWHZXUllSRlJQbm5Pd2pSajdrS3l0bi11UTIyX0kxMkdTblZVIiwibWVyY2hhbnQiOiJnaWl0ZF90cmFuc3Zpc2lvbiJ9"}
