@@ -8312,10 +8312,10 @@ https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/7d8e82e0-
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "8wTOJAQH3+dbpmtfAlGOtA", "kid": "nUf2a2Jx6rfxgwbKoe/GEA"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=OTT_1/v4.5.1
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF-1 type="series" group-logo="https://telegra.ph/file/de6a7bfbcd0862f1215a4.jpg" tvg-logo="https://telegra.ph/file/de6a7bfbcd0862f1215a4.jpg",#Storejep Original
+
+#EXTINF-1 type="series" group-logo="https://i.ibb.co/86zKghp/Kuro-Digital-Shop.jpg" tvg-logo="https://i.ibb.co/86zKghp/Kuro-Digital-Shop.jpg",#Kuro Digial Shop
 https://jepstoreott.jepstore057.workers.dev/0:/scammer.m3u8
-#EXTINF-1 type="series" group-logo="https://telegra.ph/file/de6a7bfbcd0862f1215a4.jpg" tvg-logo="https://telegra.ph/file/de6a7bfbcd0862f1215a4.jpg",#Zaidi Shop Scammer
-https://jepstoreott.jepstore057.workers.dev/0:/scammer.m3u8
+
 #EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KJNOB_P_IVP_PORT_750x1126_202395_162147.jpg",Aku Hanim E11
 https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/5bf0f4dc-780c-5bf5-b1f7-8aec28829efb/default_primary.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -16034,10 +16034,16 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63bb7748d940521074c
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"00p/00X91bPSw9FooHrJiA","kid":"PGqxgex8Ply+ntOo/uglvg"}],"type":"temporary"}
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64375cdcd940521074ce4d58_hbovodhd/dash0/MYS_DOLBY_index.mpd
-#EXTINF-1 type="movie" group-title="#Original Jepstore" group-logo="https://telegra.ph/file/de6a7bfbcd0862f1215a4.jpg" tvg-logo="https://telegra.ph/file/de6a7bfbcd0862f1215a4.jpg",#Storejep Original
+
+#EXTINF-1 type="movie" group-title="#Original Kuro Digital" group-logo="https://i.ibb.co/86zKghp/Kuro-Digital-Shop.jpg" tvg-logo="https://i.ibb.co/86zKghp/Kuro-Digital-Shop.jpgg",#Beli Di Kuro Digital Shop
 https://jepstoreott.jepstore057.workers.dev/0:/scammer.m3u8
-#EXTINF-1 type="movie" group-title="#Zaidi Shop Scammer" group-logo="https://telegra.ph/file/de6a7bfbcd0862f1215a4.jpg" tvg-logo="https://telegra.ph/file/de6a7bfbcd0862f1215a4.jpg",#Zaidi Shop Scammer
+
+#EXTINF-1 type="movie" group-title="#Kuro Digital Shop" group-logo="https://i.ibb.co/86zKghp/Kuro-Digital-Shop.jpg" tvg-logo="https://i.ibb.co/86zKghp/Kuro-Digital-Shop.jpg",#Kuro Digital Shop
 https://jepstoreott.jepstore057.workers.dev/0:/scammer.m3u8
+
+#EXTINF-1 type="Kuro Digital Shop" group-logo="https://i.ibb.co/86zKghp/Kuro-Digital-Shop.jpg" tvg-logo="https://i.ibb.co/86zKghp/Kuro-Digital-Shop.jpg",#Kuro Digital Shop
+https://jepstoreott.jepstore057.workers.dev/0:/scammer.m3u8
+
 #EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/021160X0-portrait.jpg",Quincy Jones: Burning The Light 2016
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
