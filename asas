@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-id="KBS1TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" group-title="KOREA",KBS1 
-#EXTM3U x-tvg-url=" radio="https://t.ly/jmykltuluktfrxkjtrrslkyrslrstykrskrkyssrkjrskjyrkyrk"
+#EXTM3U x-tvg-url=" radio_library="https://t.ly/jmykltuluktfrxkjtrrslkyrslrstykrskrkyssrkjrskjyrkyrk"
 http://ye23.vip/z7z8/2021/kbs2020.php?id=1
 
 #EXTINF:-1 tvg-id="KBSWorld" ch-number=" " tvg-name="KBS World HD" group-title="KOREA" tvg-logo="https://i.ibb.co/1M1Y4L5/resize.png",KBS World
