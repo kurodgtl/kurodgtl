@@ -5,9 +5,9 @@
 
 
 
-####################################################################################################################
-##################################################  MALAYSIA #######################################################
-####################################################################################################################
+###################################################################################################################################################################
+##################################################  MALAYSIA ######################################################################################################
+###################################################################################################################################################################
 
 
 #EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/wgY5YQm/image-from-rawpixel-id-6993233-original.png" tvg-logo="https://i.ibb.co/86zKghp/Kuro-Digital-Shop.jpg" group-title="MALAYSIA",INFO !
@@ -303,9 +303,18 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=8
 
 
 
-###########################################################################################################
-######################################## INDONESIA ########################################################
-###########################################################################################################
+
+
+###################################################################################################################################################################
+######################################## INDONESIA ################################################################################################################
+###################################################################################################################################################################
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/ng54R8R/image-from-rawpixel-id-6934819-original.png" tvg-logo="https://i.ibb.co/86zKghp/Kuro-Digital-Shop.jpg" group-title="INDONESIA",INFO!
@@ -633,9 +642,16 @@ https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mp
 
 
 
-#########################################################################################################
-###################################### INDIAN ###########################################################
-#########################################################################################################
+###################################################################################################################################################################
+###################################### INDIAN #####################################################################################################################
+###################################################################################################################################################################
+
+
+
+
+
+
+
 
 
 
@@ -939,9 +955,9 @@ https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
 
 
 
-########################################################################################################
-####################################### CHINESE ########################################################
-########################################################################################################
+###################################################################################################################################################################
+####################################### CHINESE ###################################################################################################################
+###################################################################################################################################################################
 
 
 
@@ -1405,9 +1421,9 @@ http://live4.tdm.com.mo/ch3/_definst_//ch3.live/playlist.m3u8
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225673/index.m3u8
 
 
-#########################################################################################################
-############################################  KOREAN ####################################################
-#########################################################################################################
+###################################################################################################################################################################
+############################################  KOREAN ##############################################################################################################
+###################################################################################################################################################################
 
 
 
@@ -1593,9 +1609,9 @@ http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 
 
 
-##########################################################################################################
-#############################################  ENTERTAINMENT  ############################################
-##########################################################################################################
+###################################################################################################################################################################
+#############################################  ENTERTAINMENT  #############################################@#######################################################
+###################################################################################################################################################################
 
 
 
@@ -1770,12 +1786,23 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2
 
 
 
-#############################################################################################
-####################################  RELIGION  ###############################################
-#############################################################################################
 
 
-#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/nm4fgG2/pngegg-8.png" tvg-logo="https://i.ibb.co/86zKghp/Kuro-Digital-Shop.jpg" group-title="RELIGION",INFO!
+
+
+###################################################################################################################################################################
+####################################  RELIGION  ###################################################################################################################
+###################################################################################################################################################################
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/TB7jgCD/islamic-god-png-images-islamic-editing-png-images-download-thumbnail-1657427542.png" tvg-logo="https://i.ibb.co/86zKghp/Kuro-Digital-Shop.jpg" group-title="RELIGION",INFO!
 https://www.youtube.com/watch?v=s9v0sniTnrY
 
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -1801,9 +1828,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
 
 
 
-############################################################################################
-#####################################  MOVIES ##############################################
-############################################################################################
+##################################################################################################################################################################
+#####################################  MOVIES ################################################################################################################3#3##
+###################################################################################################################################################################
 
 
 
@@ -2334,9 +2361,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/591105034c1806b4743
 
 
 
-#####################################################################################################
-#########################################  FAST TV  #################################################
-#####################################################################################################
+###################################################################################################################################################################
+#########################################  FAST TV  ###############################################################################################################
+###################################################################################################################################################################
 
 
 
@@ -2384,9 +2411,9 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00303-televisionkorea-estv-dash-s
 
 
 
-############################################################################################
-#################################  DOCUMENTARY  ############################################
-############################################################################################
+###################################################################################################################################################################
+#################################  DOCUMENTARY  ###################################################################################################################
+###################################################################################################################################################################
 
 
 #EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/FKHSprC/pngegg-7.png" tvg-logo="https://i.ibb.co/86zKghp/Kuro-Digital-Shop.jpg" group-title="DOCUMENTARY",INFO!
@@ -2582,9 +2609,9 @@ https://smithsonianaus-samsungau.amagi.tv/playlist1080p.m3u8
 
 
 
-#######################################################################################
-##############################  KIDS  #################################################
-#######################################################################################
+###################################################################################################################################################################
+##############################  KIDS  #############################################################################################################################
+###################################################################################################################################################################
 
 
 
@@ -3152,44 +3179,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/9986/default_ott.mpd
 #EXTINF:-1 tvg-name="AOTGLive5" ch-number="795" group-title="LIVE EVENT" tvg-logo="https://i.ibb.co/qWfP6F8/6143748c117705cedffc4ee7-6124a051ce5fb8ee1d58427c-AG-logo.png",Astro Go Live Event 6
 https://linear07-playback.sooka.my/CH5/masterCH5.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=8f9a85ba8cd5d135b9ef7e6bd4721fef&key=fce827a829e836cc4f93e735a47d8205
-#EXTINF:-1 tvg-id="" tvg-name="Cnn Indonesia" tvg-logo="https://i.postimg.cc/ncbw9qHF/bri-liga-1.jpg" group-title="LIVE EVENT",Bri Liga 1 S1
-https://production-drm-vidio-com-event-7.akamaized.net/out/v1/fb3777ee16104dcd8722bb42560cef6f/index.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=142b8b882fc06a2e3ec0d0e454a5fa21:c2fae79e079339de27f6a2ace46e303b
-#EXTINF:-1 tvg-id="" tvg-name="Cnn Indonesia" tvg-logo="https://i.postimg.cc/ncbw9qHF/bri-liga-1.jpg" group-title="LIVE EVENT",Bri Liga 1 S2
-https://production-drm-vidio-com-event-8.akamaized.net/out/v1/5bfe18929905440498f6eb7504c4028f/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=deb6c84db4dc4578bdaa61e965b3424c:b2e6fff24da67654af548fe61aa6bd5a
-#EXTINF:0 tvg-id="TestChannel995" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAH42dFvwzKke8dIBPxeeN5E6XGoR0Xpd3ZA&usqp=CAU" group-title="LIVE EVENT",AFF CH01
-https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=f5158194cc4044e699d0df01772f2212&key=072e611a383a2d1e3d4d8ea19e016a71
-#EXTINF:-1 tvg-id="TestChannel995" group-title="LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAH42dFvwzKke8dIBPxeeN5E6XGoR0Xpd3ZA&usqp=CAU",AFF CH02
-https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.mpd
-
-#EXTINF:-1 tvg-id="CHN" ch-number="CHN" group-title="LIVE EVENT" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%276191392%27&EntityType=%27Item%27&EntityId=%27292065%27&Width=237&Height=237&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Ch01 Mewatch Singapore HD 
-https://mwmpos03.akamaized.net/out/v1/64a59477c5d34afba754e763bb12ac81/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=e88098727fdd4373b69e823492ae620a&key=b8e5bda4102c9cca4dfa443aaaa337f0
-#EXTINF:-1 tvg-id="CHN" ch-number="CHN" group-title="LIVE EVENT" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%276191400%27&EntityType=%27Item%27&EntityId=%27292070%27&Width=237&Height=237&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Ch02 Mewatch Singapore HD 
-https://mwmpos01.akamaized.net/out/v1/a9e54b70137743d3b94f57272486d981/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=2115349ba4d44a6aa9e19eeaab13e79f&key=c7fb6eac174c53dafe3d25c7562c0e6b
-#EXTINF:-1 tvg-id="CHN" ch-number="CHN" group-title="LIVE EVENT" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%276191413%27&EntityType=%27Item%27&EntityId=%27292077%27&Width=237&Height=237&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Ch03 Mewatch Singapore HD 
-https://mwmpos02.akamaized.net/out/v1/5b52a13f709640b587bc825b4683fbd6/manifest.mpd  
-  
-  
 
 
 
@@ -3202,7 +3191,7 @@ https://mwmpos02.akamaized.net/out/v1/5b52a13f709640b587bc825b4683fbd6/manifest.
 
 
 
-#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/s6PyfR3/pngegg-3.png" tvg-logo="https://i.ibb.co/86zKghp/Kuro-Digital-Shop.jpg" group-title="SPORTS",INFO!
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/BLWJBSG/football-player-football-130d92b5ec4d9864a7fc6e71e4d04a09.png" tvg-logo="https://i.ibb.co/86zKghp/Kuro-Digital-Shop.jpg" group-title="SPORTS",INFO!
 https://www.youtube.com/watch?v=s9v0sniTnrY
 
 
@@ -4283,9 +4272,107 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD4_DIG_MOB/Fallback/JV_S
 
 
 
-#######################################################################################################
-############################################  RADIO  ##################################################
-#######################################################################################################
+
+
+
+
+
+###################################################################################################################################################################
+##################################  SKY STORE  ###################################################################################################################
+###################################################################################################################################################################
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/8sr97v1/pngwing-com.png" tvg-logo="https://i.ibb.co/86zKghp/Kuro-Digital-Shop.jpg" group-title="SKY STORE",INFO!
+https://www.youtube.com/watch?v=s9v0sniTnrY
+
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" tvg-logo="https://i.ibb.co/xMtp9gH/Sky-Store-Logo-2020.png" group-title="SKY STORE",SKY STORE PROGRAMME GUIDE INFO 
+https://karlfazreen.github.io/playlist/skystore/skyinfo0.m3u8
+
+#EXTINF:-1 tvg-id="TestChannel1" tvg-name="TestChannel1" tvg-logo="https://i.ibb.co/xMtp9gH/Sky-Store-Logo-2020.png" group-title="SKY STORE",SKY STORE PREMIERE 1 
+https://karlfazreen.github.io/playlist/skystore/sky11.m3u8
+
+#EXTINF:-1 tvg-id="TestChannel1" tvg-name="TestChannel1" tvg-logo="https://i.ibb.co/xMtp9gH/Sky-Store-Logo-2020.png" group-title="SKY STORE",SKY STORE PREMIERE 2
+https://karlfazreen.github.io/playlist/skystore/sky22.m3u8
+
+#EXTINF:-1 tvg-id="TestChannel1" tvg-name="TestChannel1" tvg-logo="https://i.ibb.co/xMtp9gH/Sky-Store-Logo-2020.png" group-title="SKY STORE",SKY STORE PREMIERE 3 
+https://karlfazreen.github.io/playlist/skystore/sky33.m3u8
+
+#EXTINF:-1 tvg-id="TestChannel1" tvg-name="TestChannel1" tvg-logo="https://i.ibb.co/xMtp9gH/Sky-Store-Logo-2020.png" group-title="SKY STORE",SKY STORE PREMIERE 4
+https://karlfazreen.github.io/playlist/skystore/sky44.m3u8
+
+#EXTINF:-1 tvg-id="TestChannel1" tvg-name="TestChannel1" tvg-logo="https://i.ibb.co/xMtp9gH/Sky-Store-Logo-2020.png" group-title="SKY STORE",SKY STORE PREMIERE 5
+https://karlfazreen.github.io/playlist/skystore/sky55.m3u8
+
+#EXTINF:-1 tvg-id="TestChannel1" tvg-name="TestChannel1" tvg-logo="https://i.ibb.co/xMtp9gH/Sky-Store-Logo-2020.png" group-title="SKY STORE",SKY STORE PREMIERE 6
+https://karlfazreen.github.io/playlist/skystore/sky66.m3u8
+
+#EXTINF:-1 tvg-id="TestChannel1" tvg-name="TestChannel1" tvg-logo="https://i.ibb.co/xMtp9gH/Sky-Store-Logo-2020.png" group-title="SKY STORE",SKY STORE PREMIERE 7 
+https://karlfazreen.github.io/playlist/skystore/sky77.m3u8
+
+#EXTINF:-1 tvg-id="TestChannel1" tvg-name="TestChannel1" tvg-logo="https://i.ibb.co/xMtp9gH/Sky-Store-Logo-2020.png" group-title="SKY STORE",SKY STORE PREMIERE 8
+https://karlfazreen.github.io/playlist/skystore/sky88.m3u8
+
+#EXTINF:-1 tvg-id="TestChannel1" tvg-name="TestChannel1" tvg-logo="https://i.ibb.co/xMtp9gH/Sky-Store-Logo-2020.png" group-title="SKY STORE",SKY STORE PREMIERE 9
+https://karlfazreen.github.io/playlist/skystore/sky99.m3u8
+
+#EXTINF:-1 tvg-id="TestChannel1" tvg-name="TestChannel1" tvg-logo="https://i.ibb.co/xMtp9gH/Sky-Store-Logo-2020.png" group-title="SKY STORE",SKY STORE PREMIERE 10 
+https://karlfazreen.github.io/playlist/skystore/sky1010.m3u8
+
+#EXTINF:-1 tvg-id="TestChannel1" tvg-name="TestChannel1" tvg-logo="https://i.ibb.co/xMtp9gH/Sky-Store-Logo-2020.png" group-title="SKY STORE",SKY STORE PREMIERE 11 
+https://karlfazreen.github.io/playlist/skystore/sky1111.m3u8
+
+#EXTINF:-1 tvg-id="TestChannel1" tvg-name="TestChannel1" tvg-logo="https://i.ibb.co/xMtp9gH/Sky-Store-Logo-2020.png" group-title="SKY STORE",SKY STORE PREMIERE 12 
+https://karlfazreen.github.io/playlist/skystore/sky1212.m3u8
+
+#EXTINF:-1 tvg-id="TestChannel1" tvg-name="TestChannel1" tvg-logo="https://i.ibb.co/xMtp9gH/Sky-Store-Logo-2020.png" group-title="SKY STORE",SKY STORE PREMIERE 13 
+https://karlfazreen.github.io/playlist/skystore/sky1313.m3u8
+
+#EXTINF:-1 tvg-id="TestChannel1" tvg-name="TestChannel1" tvg-logo="https://i.ibb.co/xMtp9gH/Sky-Store-Logo-2020.png" group-title="SKY STORE",SKY STORE PREMIERE 14 
+https://karlfazreen.github.io/playlist/skystore/sky1414.m3u8
+
+#EXTINF:-1 tvg-id="TestChannel1" tvg-name="TestChannel1" tvg-logo="https://i.ibb.co/xMtp9gH/Sky-Store-Logo-2020.png" group-title="SKY STORE",SKY STORE PREMIERE 15 
+https://karlfazreen.github.io/playlist/skystore/sky1515.m3u8
+
+#EXTINF:-1 tvg-id="TestChannel1" tvg-name="TestChannel1" tvg-logo="https://i.ibb.co/xMtp9gH/Sky-Store-Logo-2020.png" group-title="SKY STORE",SKY STORE PREMIERE 16 
+https://karlfazreen.github.io/playlist/skystore/sky1616.m3u8
+
+#EXTINF:-1 tvg-id="TestChannel1" tvg-name="TestChannel1" tvg-logo="https://i.ibb.co/xMtp9gH/Sky-Store-Logo-2020.png" group-title="SKY STORE",SKY STORE PREMIERE 17 
+https://karlfazreen.github.io/playlist/skystore/sky1717.m3u8
+
+#EXTINF:-1 tvg-id="TestChannel1" tvg-name="TestChannel1" tvg-logo="https://i.ibb.co/xMtp9gH/Sky-Store-Logo-2020.png" group-title="SKY STORE",SKY STORE PREMIERE 18 
+https://karlfazreen.github.io/playlist/skystore/sky1818.m3u8
+
+#EXTINF:-1 tvg-id="TestChannel1" tvg-name="TestChannel1" tvg-logo="https://i.ibb.co/xMtp9gH/Sky-Store-Logo-2020.png" group-title="SKY STORE",SKY STORE PREMIERE 19 
+https://karlfazreen.github.io/playlist/skystore/sky1919.m3u8
+
+#EXTINF:-1 tvg-id="TestChannel1" tvg-name="TestChannel1" tvg-logo="https://i.ibb.co/xMtp9gH/Sky-Store-Logo-2020.png" group-title="SKY STORE",SKY STORE PREMIERE 20 
+https://karlfazreen.github.io/playlist/skystore/sky2020.m3u8
+
+#EXTINF:-1 tvg-id="TestChannel1" tvg-name="TestChannel1" tvg-logo="https://i.ibb.co/xMtp9gH/Sky-Store-Logo-2020.png" group-title="SKY STORE",SKY STORE PREMIERE 21
+https://karlfazreen.github.io/playlist/skystore/sky2121.m3u8
+
+
+
+
+
+###################################################################################################################################################################
+############################################  RADIO  ##############################################################################################################
+##################################################################################################################################################################3
+
+
+
+
+
+
+
+
 
 
 
