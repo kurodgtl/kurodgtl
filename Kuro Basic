@@ -10,7 +10,8 @@
 ####################################################################################################################
 
 
-
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/XWgbr2v/pngtree-malaysia-flag-with-waving-brush-stroke-clipart-hd-images-png-image-8902578.png" tvg-logo="https://i.ibb.co/86zKghp/Kuro-Digital-Shop.jpg" group-title="MALAYSIA",INFO !
+https://www.youtube.com/watch?v=s9v0sniTnrY
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -307,7 +308,8 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=8
 ###########################################################################################################
 
 
-
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/7jZPzPs/png-transparent-indonesia-flag-flag-of-indonesia-flag-of-belgium-alamy-red.png" tvg-logo="https://i.ibb.co/86zKghp/Kuro-Digital-Shop.jpg" group-title="INDONESIA",INFO!
+https://www.youtube.com/watch?v=s9v0sniTnrY
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -637,7 +639,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mp
 
 
 
-
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/GtQJpVQ/pngtree-india-flag-transparent-watercolor-painted-brush-png-image-2156715.jpg" tvg-logo="https://i.ibb.co/86zKghp/Kuro-Digital-Shop.jpg" group-title="MIX INDIAN",INFO!
+https://www.youtube.com/watch?v=s9v0sniTnrY
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -942,7 +945,8 @@ https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
 
 
 
-
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/GRSrPyq/c-HJpdm-F0-ZS9sci9pb-WFn-ZXMvd2-Vic2l0-ZS8y-MDIy-LTA1-L2pv-Yjkz-Ny0y-MC5wbmc.jpg" tvg-logo="https://i.ibb.co/86zKghp/Kuro-Digital-Shop.jpg" group-title="MIX CHINESE",INFO!
+https://www.youtube.com/watch?v=s9v0sniTnrY
 
 
 
@@ -1407,7 +1411,8 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225673/index.m3u8
 
 
 
-
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/V3WnLqS/pngtree-south-korea-flag-transparent-watercolor-painted-brush-png-image-5331364.jpg" tvg-logo="https://i.ibb.co/86zKghp/Kuro-Digital-Shop.jpg" group-title="KOREA",INFO!
+https://www.youtube.com/watch?v=s9v0sniTnrY
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1592,6 +1597,8 @@ http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/86zKghp/Kuro-Digital-Shop.jpg" tvg-logo="https://i.ibb.co/86zKghp/Kuro-Digital-Shop.jpg" group-title="ENTERTAINMENT",INFO!
+https://www.youtube.com/watch?v=s9v0sniTnrY
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1795,7 +1802,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
 
 
 
-
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/P4x0MNy/png-transparent-colorflow-film-computer-icons-directory-mymovies-it-movies-miscellaneous-text-tradem.png" tvg-logo="https://i.ibb.co/86zKghp/Kuro-Digital-Shop.jpg" group-title="MOVIES",INFO!
+https://www.youtube.com/watch?v=s9v0sniTnrY
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2327,7 +2335,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/591105034c1806b4743
 
 
 
-
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/86zKghp/Kuro-Digital-Shop.jpg" tvg-logo="https://i.ibb.co/86zKghp/Kuro-Digital-Shop.jpg" group-title="FAST TV",INFO!
+https://www.youtube.com/watch?v=s9v0sniTnrY
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -2375,7 +2384,8 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00303-televisionkorea-estv-dash-s
 ############################################################################################
 
 
-
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/K2GS69N/png-clipart-documentary-channel-documentary-film-television-channel-television-documentary-asahi-bro.png" tvg-logo="https://i.ibb.co/86zKghp/Kuro-Digital-Shop.jpg" group-title="DOCUMENTARY",INFO!
+https://www.youtube.com/watch?v=s9v0sniTnrY
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2578,7 +2588,8 @@ https://smithsonianaus-samsungau.amagi.tv/playlist1080p.m3u8
 
 
 
-
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/9cPNn19/png-transparent-kids-logo-kids-channel-media-nusantara-citra-mnc-channels-rcti-idx-channel-may-20-te.png" tvg-logo="https://i.ibb.co/86zKghp/Kuro-Digital-Shop.jpg" group-title="KIDS",INFO!
+https://www.youtube.com/watch?v=s9v0sniTnrY
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2860,7 +2871,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c3f8f12a93c2d61b9990a
 ####################################################################################################
 
 
-
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/ThQ0nKY/ne1813l003-news-logo-logotype-free-logo-icons.png" tvg-logo="https://i.ibb.co/86zKghp/Kuro-Digital-Shop.jpg" group-title="NEWS",INFO!
+https://www.youtube.com/watch?v=s9v0sniTnrY
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3188,7 +3200,8 @@ https://mwmpos02.akamaized.net/out/v1/5b52a13f709640b587bc825b4683fbd6/manifest.
 
 
 
-
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/6Ws60sf/png-clipart-blue-and-white-soccer-ball-illustration-football-stars-other-emblem.png" tvg-logo="https://i.ibb.co/86zKghp/Kuro-Digital-Shop.jpg" group-title="SPORTS",INFO!
+https://www.youtube.com/watch?v=s9v0sniTnrY
 
 
 #EXTINF:-1 tvg-id="SukanRTM.my" tvg-name="Sukan RTM" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Sukan_RTM_1_April.png/200px-Sukan_RTM_1_April.png",Sukan RTM
@@ -4275,7 +4288,8 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD4_DIG_MOB/Fallback/JV_S
 
 
 
-
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/f2gbjh4/pngtree-world-radio-day-with-old-style-png-image-5739952.jpg" tvg-logo="https://i.ibb.co/86zKghp/Kuro-Digital-Shop.jpg" group-title="RADIO",INFO!
+https://www.youtube.com/watch?v=s9v0sniTnrY
 
 
 
@@ -4419,42 +4433,28 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/143/default_primary.mpd
 
 
 
-#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/XWgbr2v/pngtree-malaysia-flag-with-waving-brush-stroke-clipart-hd-images-png-image-8902578.png" tvg-logo="https://i.ibb.co/86zKghp/Kuro-Digital-Shop.jpg" group-title="MALAYSIA",INFO!
-https://www.youtube.com/watch?v=s9v0sniTnrY
 
-#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/7jZPzPs/png-transparent-indonesia-flag-flag-of-indonesia-flag-of-belgium-alamy-red.png" tvg-logo="https://i.ibb.co/86zKghp/Kuro-Digital-Shop.jpg" group-title="INDONESIA",INFO!
-https://www.youtube.com/watch?v=s9v0sniTnrY
 
-#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/V3WnLqS/pngtree-south-korea-flag-transparent-watercolor-painted-brush-png-image-5331364.jpg" tvg-logo="https://i.ibb.co/86zKghp/Kuro-Digital-Shop.jpg" group-title="KOREA",INFO!
-https://www.youtube.com/watch?v=s9v0sniTnrY
 
-#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/GRSrPyq/c-HJpdm-F0-ZS9sci9pb-WFn-ZXMvd2-Vic2l0-ZS8y-MDIy-LTA1-L2pv-Yjkz-Ny0y-MC5wbmc.jpg" tvg-logo="https://i.ibb.co/86zKghp/Kuro-Digital-Shop.jpg" group-title="MIX CHINESE",INFO!
-https://www.youtube.com/watch?v=s9v0sniTnrY
 
-#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/GtQJpVQ/pngtree-india-flag-transparent-watercolor-painted-brush-png-image-2156715.jpg" tvg-logo="https://i.ibb.co/86zKghp/Kuro-Digital-Shop.jpg" group-title="MIX INDIAN",INFO!
-https://www.youtube.com/watch?v=s9v0sniTnrY
 
-#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/P4x0MNy/png-transparent-colorflow-film-computer-icons-directory-mymovies-it-movies-miscellaneous-text-tradem.png" tvg-logo="https://i.ibb.co/86zKghp/Kuro-Digital-Shop.jpg" group-title="MOVIES",INFO!
-https://www.youtube.com/watch?v=s9v0sniTnrY
 
-#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/86zKghp/Kuro-Digital-Shop.jpg" tvg-logo="https://i.ibb.co/86zKghp/Kuro-Digital-Shop.jpg" group-title="ENTERTAINMENT",INFO!
-https://www.youtube.com/watch?v=s9v0sniTnrY
 
-#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/K2GS69N/png-clipart-documentary-channel-documentary-film-television-channel-television-documentary-asahi-bro.png" tvg-logo="https://i.ibb.co/86zKghp/Kuro-Digital-Shop.jpg" group-title="DOCUMENTARY",INFO!
-https://www.youtube.com/watch?v=s9v0sniTnrY
 
-#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/9cPNn19/png-transparent-kids-logo-kids-channel-media-nusantara-citra-mnc-channels-rcti-idx-channel-may-20-te.png" tvg-logo="https://i.ibb.co/86zKghp/Kuro-Digital-Shop.jpg" group-title="KIDS",INFO!
-https://www.youtube.com/watch?v=s9v0sniTnrY
 
-#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/6Ws60sf/png-clipart-blue-and-white-soccer-ball-illustration-football-stars-other-emblem.png" tvg-logo="https://i.ibb.co/86zKghp/Kuro-Digital-Shop.jpg" group-title="SPORTS",INFO!
-https://www.youtube.com/watch?v=s9v0sniTnrY
 
-#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/ThQ0nKY/ne1813l003-news-logo-logotype-free-logo-icons.png" tvg-logo="https://i.ibb.co/86zKghp/Kuro-Digital-Shop.jpg" group-title="NEWS",INFO!
-https://www.youtube.com/watch?v=s9v0sniTnrY
 
-#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/f2gbjh4/pngtree-world-radio-day-with-old-style-png-image-5739952.jpg" tvg-logo="https://i.ibb.co/86zKghp/Kuro-Digital-Shop.jpg" group-title="RADIO",INFO!
-https://www.youtube.com/watch?v=s9v0sniTnrY
 
-#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/86zKghp/Kuro-Digital-Shop.jpg" tvg-logo="https://i.ibb.co/86zKghp/Kuro-Digital-Shop.jpg" group-title="FAST TV",INFO!
-https://www.youtube.com/watch?v=s9v0sniTnrY
+
+
+
+
+
+
+
+
+
+
+
+
 
