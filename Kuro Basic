@@ -3348,13 +3348,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nNXA0eVMIuA12I3Twd/ITA", "kid":"AQy7nPGgHq04Bwcw04vHEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="W-Sport" tvg-name="W-Sport" group-title="SPORTS" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://telegra.ph/file/ee3bff6d510fb4ac3f386.png",W-Sport 
+#EXTINF:-1 tvg-id="W-Sport" tvg-name="W-Sport" group-title="SPORTS" tvg-logo="https://telegra.ph/file/ee3bff6d510fb4ac3f386.png",W-Sport 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=df7d346ad39e5df8915ecedb930f17e5&key=d453a05f485678e446a27432b2ec500d
-#EXTINF:-1 tvg-id="CHN" group-title="SPORTS" group-logo="https://aqfadtv.xyz/images/sports1.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/768px-NBA_TV.svg.png",NBA TV
+#EXTINF:-1 tvg-id="CHN" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/768px-NBA_TV.svg.png",NBA TV
 #https://production-drm-vidio-com-nba.akamaized.net/out/v1/6cca0501a28e4ad78cd94cb695cb1162/index.mpd
 
 #EXTINF:-1 tvg-name="Unifi Sports " tvg-id="unifiSports.my" group-title="SPORTS" tvg-logo="https://i.imgur.com/Ixoabqf.png",Unifi Sports 1
@@ -3502,7 +3502,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=34b831a974501d106f6545e9f93de010:c31ef8e8ac1139b985ac3673002b7014
-#EXTINF:-1 tvg-id="beINSports4.qa.my" tvg-name="beIN Sports 4" group-title="Sports" tvg-logo="https://i.ibb.co/dc8fFLq/Logo-bein-sports-4.png",beIN Sports 4
+#EXTINF:-1 tvg-id="beINSports4.qa.my" tvg-name="beIN Sports 4" group-title="SPORTS" tvg-logo="https://i.ibb.co/dc8fFLq/Logo-bein-sports-4.png",beIN Sports 4
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5085/default.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3831,7 +3831,7 @@ https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerc
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"12nZriOL3UJPi83NyaOAHw", "kid":"UxxtUOPp+bpmRG9iT0kiiQ" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="SportStars.id" group-title="Sports" group-logo="https://aqfadtv.xyz/images/sports1.png" tvg-logo="https://aqfadtv.xyz/logos/Sportstars.png" ch-number="102",Sportstars
+#EXTINF:-1 tvg-id="SportStars.id" group-title="SPORT" group-logo="https://aqfadtv.xyz/images/sports1.png" tvg-logo="https://aqfadtv.xyz/logos/Sportstars.png" ch-number="102",Sportstars
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
