@@ -672,39 +672,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_primary.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"aMXbOzCfq1UDpv21gN3ygQ", "kid":"x3N+3R1ngk+nDfcxVL+BEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroVinmeenHD.my" tvg-name="Astro Vinmeen HD" group-title="MIX INDIAN" tvg-logo="https://iili.io/1NuZbI.png",Astro Vinmeen(OFF)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2105/default_primary.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"wSi75B6U0Vp/jML2JTpUsg", "kid":"nESvi1lLYVf1XTwxvWecEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="AstroVellithirai.my" tvg-name="Astro Vellithirai HD" group-title="MIX INDIAN" tvg-logo="https://iili.io/1Nq6lI.png",Astro Vellithirai 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default_primary.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CE52Vhu6nU866VOs3Tez7Q", "kid":"kYrevhCphI1WfcbLWtzlEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroBoxOfficeThangathirai.my" tvg-name="ABO Movies Thangathirai HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/76/Astro_Box_Office_Movies.png" group-title="MIX INDIAN",Box Office Thangathirai(OFF)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_primary.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"69gYPTMVhYTxIWA2TDF/+g", "kid":"+ISpLznXBMQy8lz2MzoyEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroBollyOneHD.my" tvg-name="BollyOne HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Bollyone_HD_v1.png" group-title="MIX INDIAN",Box Office Bollyone(OFF)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
-http://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295
-#EXTINF:-1 tvg-ID="ColorsHD" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/colors.png" group-title="MIX INDIAN",Colors
-##https://cdn-01.toffeelive.com/origin-03/live-origin/smil:colors.smil/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -769,9 +740,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5089/default_primary.mpd
 #EXTINF:-1 tvg-id="Suryatv" tvg-name="Surya TV" group-title="MIX INDIAN" tvg-logo="https://i.ibb.co/rsPQghF/Surya-TV-logo.png", Surya TV
 https://karlfazreen.github.io/playlist/suryatv.m3u8
 
-#EXTINF:-1 tvg-id="SuryaMovies" tvg-name="Surya Movies" group-title="MIX INDIAN" tvg-logo="https://i.ibb.co/rsPQghF/Surya-TV-logo.png", Surya Movies
-https://karlfazreen.github.io/playlist/suryamovies.m3u8
-
 #EXTINF:-1 tvg-id="SuryaComedy" tvg-name="Surya Comedy" group-title="MIX INDIAN" tvg-logo="https://i.ibb.co/rsPQghF/Surya-TV-logo.png", Surya Comedy
 https://karlfazreen.github.io/playlist/suryacomedy.m3u8
 
@@ -782,12 +750,6 @@ https://karlfazreen.github.io/playlist/suryacomedy.m3u8
 #EXTINF:-1 tvg-id="KTV HD" tvg-name="KTV HD" group-title="MIX INDIAN" tvg-logo="https://i.ibb.co/41Br4yj/KTV-28-UHF.png", Ktv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5088/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1110
-#EXTINF:-1 tvg-id="ChuttiTVMalaysia.my" ch-number="213" group-title="MIX INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/51_144.png",Chutti TV(OFF)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1110/default_Primary.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
