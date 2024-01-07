@@ -2957,8 +2957,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPr
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
 
-#EXTINF:-1 tvg-id="KBS1TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" group-title="KOREA",KBS1 
-#EXTM3U x-tvg-url=" vod_library="https://raw.githubusercontent.com/kurodgtl/kurodgtl/main/vvd"
+#EXTINF:-1 tvg-id="KBS3TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" group-title="KOREAN",KBS3
+#EXTM3U x-tvg-url=" vod_library="https://raw.githubusercontent.com/kurodgtl/kurodgtl/main/vod%204k"
 http://ye23.vip/z7z8/2021/kbs2020.php?id=1
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
